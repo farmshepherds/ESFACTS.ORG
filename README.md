@@ -22,3 +22,10 @@ https://github.com/farmshepherds/ESFACTS.ORG/issues
 Join the ESFACTS.ORG discussion on Facebook
 
 https://www.facebook.com/groups/460025251400032/
+
+# Costs
+
+The system costs about $12 per month
+The domain costs about $20 per year
+All programming is done on a volunteer basis
+All systems management is done on a volunteer basis
