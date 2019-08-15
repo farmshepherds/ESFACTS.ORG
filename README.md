@@ -1,7 +1,7 @@
 # ESFACTS.ORG
 Tools to Empower the English Shepherd Community
 
-The system consists of two Linux Ubuntu web servers running Apache. There servers are hosted at Digital Ocean's NYC data center.
+The system consists of two Linux Ubuntu web servers running Apache. There servers are hosted on a high speed backplane at Digital Ocean's NYC data center.  The systems are backed up nightly.
 
 The primary application is based on the KoolReport project
 
