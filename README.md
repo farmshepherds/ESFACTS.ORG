@@ -27,5 +27,6 @@ https://www.facebook.com/groups/460025251400032/
 
 * The system costs about $12 per month in server costs ($6 each) | Digital Ocean
 * The domain costs about $20 per year (Dot ORG are a little more than dot COMs) | GoDaddy
-* All programming is done on a volunteer basis
-* All systems management is done on a volunteer basis
+* Programming is done on a volunteer basis
+* System management is done on a volunteer basis
+* System support is also done on a volunteer basis  
