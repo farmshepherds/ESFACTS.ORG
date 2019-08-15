@@ -1,8 +1,6 @@
 # ESFACTS.ORG
 Tools to Empower the English Shepherd Community
 
-ESFACTS.ORG is a suite of web-based tools to empower the English Shepherd community.
-
 The system consists of two Linux Ubuntu web servers running Apache. There servers are hosted at Digital Ocean's NYC data center.
 
 The primary application is based on the KoolReport project
